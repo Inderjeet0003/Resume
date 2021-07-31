@@ -1,0 +1,88 @@
+{
+	"basics": {
+		"name": "INDERJEET",
+		"label": "Student",
+		"picture": "https://drive.google.com/file/d/1VX0MpxNQIfX-jV2ZJZSvobM1rcj3Pvvh/view?usp=sharing",
+		"email": "2018kucp1098@iiitkota.ac.in",
+		"phone": "7568834816",
+		"website": "---Enter Link of website(if any) ---",
+		"summary": "Currently pursuing my Bachelor of Technology degree in Computer Science Engineering(CSE) have a keen interest in Competitive
+coding , solving problems and Web development.",
+		"location": {
+			"address": "Bajrang Vihar Colony,Nadbai(321602),Bharatpur",
+			"postalCode": "321602",
+			"city": "Nadbai",
+			"countryCode": "India",
+			"region": "Rajasthan"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "@INDERJE12220193",
+				"url": "https://twitter.com/INDERJE12220193"
+			},
+			{
+				"network": "Github",
+				"username": "Inderjeet0003",
+				"url": "https://github.com/Inderjeet0003"
+			},
+			{
+				"network": "linkedin",
+				"username": "INDERJEET",
+				"url": "https://www.linkedin.com/in/inderjeet-816b88176/"
+			},
+			{
+				"network": "Instagram",
+				"username": "handle",
+				"url": "https://instagram.com/<handle>"
+			}
+		]
+	},
+	"work": [{
+		"company": "GFG",
+		"position": "Campus Ambassador",
+		"website": "https://www.geeksforgeeks.org/",
+		"startDate": "2020-05-14//Take care about Date Format",
+		"endDate": "2021-05-14",
+		"summary": "GFG is portal where students can prepare for interships and placements and improve their coding skills.",
+		"highlights": ["Add Highlights", "Your work details"]
+	}],
+	"volunteer": [{
+		"organization": "---Name Org ---",
+		"position": "---Add ---",
+		"website": "---",
+		"startDate": "2020-01-01 // Note Date Format",
+		"endDate": "---",
+		"summary": "Description...",
+		"highlights": []
+	}],
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2018-04-08",
+		"endDate": "2022-07-30",
+		"gpa": "8.92",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"awards": [{
+		"title": "--Title---",
+		"awarder": "---Receiverd By ---",
+		"date": "2020-08-21//Date"
+	}],
+	"publications": [{
+		"title": "---Enter Title---",
+		"details": "---Enter Details---",
+		"link": "---github/website link to show your work---"
+	}],
+	"skills": [{
+		"level": "Intermediate",
+		"keywords": ["HTML", "CSS", "Javascript", "React", "NodeJS", "MongoDB", "C/C++", "DSA"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Table Tennis", "Badminton"]
+	}],
+	"references": []
+}
